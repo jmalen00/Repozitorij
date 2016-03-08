@@ -9,7 +9,7 @@ namespace Rep_pro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Koji si grob");
         }
     }
 }
