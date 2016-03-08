@@ -11,5 +11,10 @@ namespace Rep_pro
         {
             Console.WriteLine("Koji si grob");
         }
+
+        public static void test()
+        {
+
+        }
     }
 }
